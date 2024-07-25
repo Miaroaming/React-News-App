@@ -6,7 +6,7 @@
 
 header {
   padding: 30px;
-  background-color: black;
+  background-color: rgb(183, 99, 99);
   color: white;
 }
 
@@ -15,6 +15,6 @@ footer {
   align-items: center;
   justify-content: center;
   padding: 30px;
-  background-color: black;
+  background-color: rgb(103, 107, 239);
   color: white;
 }
